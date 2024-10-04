@@ -3,4 +3,5 @@ site_url: https://repro-mkdocs.statichost.eu
 theme:
   name: material
 plugins:
-  - privacy
+  - privacy:
+      log_level: debug
