@@ -4,4 +4,4 @@ theme:
   name: material
 plugins:
   - privacy:
-      log_level: debug
+      cache: false
